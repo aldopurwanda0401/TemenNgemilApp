@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TEMEN NGEMIL APP</string>
+    <string name="basrengpds">Basreng Pedas Daun Jeruk</string>
+    <string name="ususpds">Usus Crispy</string>
+    <string name="basrengpdsdescription">Komposisi : Baso Goreng, Daun Jeruk, Cabai\nKadaluarsa : 3 Bulan</string>
+    <string name="ususpdsdescription">Komposisi : Usus Goreng, Daun Jeruk, Cabai\nKadaluarsa : 3 Bulan</string>
+    <string-array name="all_product">
+        <item>Basreng Pedas Daun Jeruk</item>
+        <item>Usus Crispy</item>
+    </string-array>
+    <string-array name="desc_product">
+        <item>Komposisi : Baso Goreng, Daun Jeruk, Cabai\nKadaluarsa : 3 Bulan</item>
+        <item>Komposisi : Usus Goreng, Daun Jeruk, Cabai\nKadaluarsa : 3 Bulan</item>
+    </string-array>
+    <string name="ordermenu"><u>ORDER MENU</u></string>
+    <string-array name="ukuran">
+        <item>100gr</item>
+        <item>500gr</item>
+        <item>1000gr</item>
+    </string-array>
+    <string-array name="hargabasreng">
+        <item>8000</item>
+        <item>35000</item>
+        <item>61000</item>
+    </string-array>
+    <string-array name="hargausus">
+        <item>10000</item>
+        <item>45000</item>
+        <item>85000</item>
+    </string-array>
+    <string name="rincianoder"><u>RINCIAN COD</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
